@@ -1,4 +1,4 @@
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2019/12/Mobio-Android-Banner.png)
+![MasterHead](https://mobiosolutions.com/wp-content/uploads/2019/12/Mobio-Android-Banner.png)
 <h1 align="center">Hi 👋, I'm Anuj Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif>
